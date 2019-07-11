@@ -51,6 +51,8 @@ _**Madrid**_ {data-width=850}
 
 <br><br>
 
+**Rates per night per apartment**
+
 ```{r budget_table}
 
 budget <- read_excel("rooming.xlsx", sheet = "bud", range = "B13:G23") 
